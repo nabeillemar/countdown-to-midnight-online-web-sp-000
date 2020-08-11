@@ -9,4 +9,4 @@ def countdown(num)
 end 
 end
 
-countdown
+countdown(10)
